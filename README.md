@@ -78,32 +78,33 @@ Flutter.
 
 ## Product Functions
 ### Sorting:
-#### Sort by first name: Sorts all players by their first name, from A-Z or Z-A, depending on
-which is specified.
-#### Sort by last name: Sorts all players by their last name, from A-Z or Z-A, depending on
-which is specified.
-#### Sort by batting: Sorts all players by their RCon, from highest to lowest or lowest to
-highest, depending on which is specified.
-#### Sort by team name: Sorts all players by their team name, from A-Z or Z-A, depending
-on which is specified.
-#### Sort by year: Sorts all players by their year, from least to most recent or most to least
-recent, depending on which is specified.
+#### Sort by first name: 
+Sorts all players by their first name, from A-Z or Z-A, depending on which is specified.
+#### Sort by last name: 
+Sorts all players by their last name, from A-Z or Z-A, depending on which is specified.
+#### Sort by batting: 
+Sorts all players by their RCon, from highest to lowest or lowest to highest, depending on which is specified.
+#### Sort by team name: 
+Sorts all players by their team name, from A-Z or Z-A, depending on which is specified.
+#### Sort by year: 
+Sorts all players by their year, from least to most recent or most to least recent, depending on which is specified.
 
 ### Searching:
-#### Search by statistic: Returns a list of players that match the specified statistic (batting,
-name, team, etc…).
+#### Search by statistic: 
+Returns a list of players that match the specified statistic (batting, name, team, etc…).
 
 ### Graphing:
-#### Graph: Creates a directed graph where each vertex (node) is a player and points towards
-other players on the same team in the same year with a greater RCon score.
-#### SCC: Finds the strongly connected components (SCC) of the graph.
+#### Graph: 
+Creates a directed graph where each vertex (node) is a player and points towards other players on the same team in the same year with a greater RCon score.
+#### SCC: 
+Finds the strongly connected components (SCC) of the graph.
 
 ## User Characteristics
-### Typical user would be a casual MLB fan who would like to know more about a certain
-player or group of players.
-### MLB analysts who would like the data of numerous players presented in an intuitive way
-in order to make predictions.
-### Developers who are interested in further developing or maintaining the product.
+Typical user would be a casual MLB fan who would like to know more about a certain player or group of players.
+
+MLB analysts who would like the data of numerous players presented in an intuitive way in order to make predictions.
+
+Developers who are interested in further developing or maintaining the product.
 
 ## Constraints
 As specified by the client, the model of the product must be written in Java code, which holds the
