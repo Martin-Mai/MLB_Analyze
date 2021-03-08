@@ -26,11 +26,6 @@ algorithms. The software uses a statistic based on our custom made formula (whic
 in further detail in section 1.3) to rank the baseball players on their batting success for each
 season they played in.
 
-## Definitions, Acronyms, Abbreviations
-When analyzing baseball statistics, there are a variety of different acronyms and abbreviations
-that are used to represent different statistics. Below there will be a list of different abbreviations
-and what they stand for.
-
 ## User Interface:
 <table>
   <tr>
@@ -40,6 +35,12 @@ and what they stand for.
     <td><img src="https://github.com/Martin-Mai/MLB_Analyze_Application/blob/master/UI/sortPage.jpg"></td>
   </tr>
 </table>
+
+
+## Definitions, Acronyms, Abbreviations
+When analyzing baseball statistics, there are a variety of different acronyms and abbreviations
+that are used to represent different statistics. Below there will be a list of different abbreviations
+and what they stand for.
 
 ##### MLB: Major League Baseball
 ##### G: Games Played
