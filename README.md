@@ -1,4 +1,15 @@
 # MLB_Analyze_Application
+
+# Major Achievement in this application
+
+• Implemented a **statistical analysis application** in **Java** with **Merge Sort**, **Binary
+Search**, and **Graph algorithms** for MLB (Major League Baseball), based on 
+**100,000+ data** of all players and teams from 1871 to 2015. 
+
+• Produced an optimized and **efficient solution** for fans to evaluate the 
+performance and rank the baseball players and baseball teams based on their 
+batting success for each season they played
+
 # Introduction
 ## Purpose
 
