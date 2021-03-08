@@ -131,6 +131,74 @@ Windows system
 Since MLB Analysis is a PC application written in Java and therefore requires any potential
 users to own a compatible PC device.
 
+# Specific Requirements
+## User Interface:
+<table>
+  <tr>
+    <td><img src="https://github.com/Martin-Mai/MLB_Analyze_Application/blob/master/UI/SortTeam.jpg"></td>
+    <td><img src="https://github.com/Martin-Mai/MLB_Analyze_Application/blob/master/UI/exampleSearch.jpg"></td>
+    <td><img src="https://github.com/Martin-Mai/MLB_Analyze_Application/blob/master/UI/searchPage.jpg"></td>
+    <td><img src="https://github.com/Martin-Mai/MLB_Analyze_Application/blob/master/UI/sortPage.jpg"></td>
+  </tr>
+</table>
+### Searching for players:
+It will open a window that contains a searching bar, the search button as well as the filter.
+
+### Sorting for players: 
+It will open a window that contains several sorting options such as sorting by first name, sorting by last name,etc.
+
+## External Interfaces:
+MLB Analysis will be in the form of a pc application in Windows systems. It can be connected to the source data file from kaggle.com to load the data.
+The GUI will consist of a search bar and will have multiple drop down menus so that the user
+can better specify how he wants the desired information to be presented. After clicking the
+search bar there will be the results of the search
+
+## Software Interfaces:
+As MLB Analysis is a Windows system compatible app, requiring the Windows system and Java
+running environment more information can be found in section 2.
+
+## Hardware interfaces:
+The system must have at least 300 megabytes for memory.
+
+# Non-Functional requirements:
+## Performance Requirements
+1. The goal for the response time is less than 1.0 seconds in most cases. Response time is a
+very critical attribute of a good pc application. It is important that MLB Analysis will
+have no more than 1.0 second response time in most cases, regardless of search
+parameters.
+2. The app works perfectly in the environment without the internet. The app should load the
+data and store it into the memory of the computer, then the user can interact with the
+product by the java GUI.
+3. The app requires the system to have at least 300 megabytes of RAM. When the app is
+running, its CPU usage will be less than 50%, and its memory usage will be less than
+50%.
+4. The software installed on the operating system must be compatible with its firewall or
+antivirus protection.
+
+## Safety Requirements:
+MLB can be downloaded and run on different pc devices with Windows systems. In order to
+prevent users from facing security threats such as program damage, data loss and information
+theft, the developer team will update this software regularly.
+
+## Security Requirements:
+MLB Analysis does not have any security requirements as its job is to analyze the statistics of
+MLB players and provide searching capabilities for the users based on input. Any users can use
+it without any additional permission and privileges.
+
+## Software Quality Attributes:
+### Availability: 
+MLB Analysis will provide baseball statistics for the users.
+### Maintainability: 
+The software will be maintained to ensure that it functions properly when it is available to be used.
+### Portability: 
+The users can access MLB Analyze on different personal computers that have Windows systems .
+### Accuracy of Results: 
+The application will be designed to output the expected messages based on the user’s requirement. By comparing the information of different objects, the users will know how players rank with respect to each other based on RCon.
+### Performance: 
+The design will process a considerable dataset and use a variety of efficient algorithms such as quicksort, binary search in Java to produce the output by minimizing run time and memory usage.
+### Integrity: 
+The MLB analysis will ensure the privacy of the users and not expose confidential information without explicit consent.
+
 
 
 
