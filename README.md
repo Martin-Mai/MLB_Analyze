@@ -31,6 +31,15 @@ When analyzing baseball statistics, there are a variety of different acronyms an
 that are used to represent different statistics. Below there will be a list of different abbreviations
 and what they stand for.
 
+## User Interface:
+<table>
+  <tr>
+    <td><img src="https://github.com/Martin-Mai/MLB_Analyze_Application/blob/master/UI/SortTeam.jpg"></td>
+    <td><img src="https://github.com/Martin-Mai/MLB_Analyze_Application/blob/master/UI/exampleSearch.jpg"></td>
+    <td><img src="https://github.com/Martin-Mai/MLB_Analyze_Application/blob/master/UI/searchPage.jpg"></td>
+    <td><img src="https://github.com/Martin-Mai/MLB_Analyze_Application/blob/master/UI/sortPage.jpg"></td>
+  </tr>
+</table>
 
 ##### MLB: Major League Baseball
 ##### G: Games Played
@@ -131,16 +140,7 @@ Windows system
 Since MLB Analysis is a PC application written in Java and therefore requires any potential
 users to own a compatible PC device.
 
-# Specific Requirements
-## User Interface:
-<table>
-  <tr>
-    <td><img src="https://github.com/Martin-Mai/MLB_Analyze_Application/blob/master/UI/SortTeam.jpg"></td>
-    <td><img src="https://github.com/Martin-Mai/MLB_Analyze_Application/blob/master/UI/exampleSearch.jpg"></td>
-    <td><img src="https://github.com/Martin-Mai/MLB_Analyze_Application/blob/master/UI/searchPage.jpg"></td>
-    <td><img src="https://github.com/Martin-Mai/MLB_Analyze_Application/blob/master/UI/sortPage.jpg"></td>
-  </tr>
-</table>
+# Specific Functional Requirements
 ### Searching for players:
 It will open a window that contains a searching bar, the search button as well as the filter.
 
