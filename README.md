@@ -27,10 +27,11 @@ in further detail in section 1.3) to rank the baseball players on their batting 
 season they played in.
 
 ## User Interface:
-<img src="https://github.com/Martin-Mai/MLB_Analyze_Application/blob/master/UI/SortTeam.jpg">
-<img src="https://github.com/Martin-Mai/MLB_Analyze_Application/blob/master/UI/exampleSearch.jpg">
 <img src="https://github.com/Martin-Mai/MLB_Analyze_Application/blob/master/UI/searchPage.jpg">
 <img src="https://github.com/Martin-Mai/MLB_Analyze_Application/blob/master/UI/sortPage.jpg">
+<img src="https://github.com/Martin-Mai/MLB_Analyze_Application/blob/master/UI/SortTeam.jpg">
+<img src="https://github.com/Martin-Mai/MLB_Analyze_Application/blob/master/UI/exampleSearch.jpg">
+
 
 
 ## Definitions, Acronyms, Abbreviations
